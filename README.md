@@ -1,5 +1,5 @@
 # Rubik-s-Cube-in-OpenGL
-This repository contains the Final Project of Computer Graphics UCSP 2021-1 
+This repository contains the Final Project of Computer Graphics UCSP 2021-1.
 
 ## Authors
 
